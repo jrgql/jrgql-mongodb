@@ -1,0 +1,28 @@
+{
+  "name": "jrgql-mongodb",
+  "version": "0.0.9",
+  "description": "jrGQL MongoDb driver",
+  "main": "MongoDbDriver.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "jrgql",
+    "json",
+    "regex",
+    "graph",
+    "query",
+    "language",
+    "mongodb",
+    "driver"
+  ],
+  "dependencies": {
+    "jrgql": "^0.9.3-beta",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  },
+  "author": "Jamesgt",
+  "license": "MIT"
+}
